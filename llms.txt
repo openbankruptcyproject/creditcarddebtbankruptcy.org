@@ -1,43 +1,29 @@
-# creditcarddebtbankruptcy.org
+# Creditcarddebt Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+> Free Creditcarddebt bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what t...
 
-> Free guide to filing bankruptcy on credit card debt.
+## About
+creditcarddebtbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-creditcarddebtbankruptcy.org is a free, open-source educational resource about how bankruptcy handles credit card debt. Chapter 7 discharge, Chapter 13 repayment, lawsuits, balance transfers, and rebuilding credit. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://creditcarddebtbankruptcy.org/: Can you file bankruptcy on credit card debt? Yes. Credit card debt is unsecured and fully dischargeable in Chapter 7 and partially repaid in Chapter 13.
-- https://creditcarddebtbankruptcy.org/chapter-7.html: Chapter 7 and credit card debt. How discharge eliminates credit card balances entirely.
-- https://creditcarddebtbankruptcy.org/chapter-13.html: Chapter 13 repayment of credit card debt. How plans handle unsecured credit card balances.
-- https://creditcarddebtbankruptcy.org/before-filing.html: What to do before filing bankruptcy on credit card debt. Stop using cards, gather statements, credit counseling.
-- https://creditcarddebtbankruptcy.org/credit-after.html: Rebuilding credit after bankruptcy discharge. Secured cards, credit builder loans, timeline to recovery.
-- https://creditcarddebtbankruptcy.org/lawsuits.html: When credit card companies sue and how bankruptcy stops lawsuits via the automatic stay.
-- https://creditcarddebtbankruptcy.org/balance-transfers.html: Balance transfer traps before bankruptcy. Why transferring balances before filing can create fraud issues.
-- https://creditcarddebtbankruptcy.org/secured-vs-unsecured.html: Secured vs unsecured credit card debt in bankruptcy.
-- https://creditcarddebtbankruptcy.org/faq.html: Frequently asked questions about credit card debt and bankruptcy.
-
-## Key Facts
-
-- Credit card debt is general unsecured debt, fully dischargeable in Chapter 7
-- In Chapter 13, credit card debt is paid through the plan at the same rate as other unsecured claims
-- Luxury purchases over $800 within 90 days of filing may be presumed nondischargeable under Section 523(a)(2)(C)
-- Cash advances over $1,100 within 70 days of filing may be presumed nondischargeable
-- Balance transfers shortly before filing can trigger fraud objections
-- The automatic stay immediately stops credit card lawsuits, garnishments, and collection calls
-- Most people can rebuild credit to 700+ within 2-3 years after discharge
-
-## Network
-
-Part of the Open Bankruptcy Project:
-- 1328f.com -- Discharge eligibility screener
-- 1328f.org -- Research platform
-- creditcardforgiveness.org -- Credit card forgiveness options
-- debtsettlementvsbankruptcy.com -- Settlement vs bankruptcy comparison
-- 523a.org -- Nondischargeable debts
-- averagecreditcarddebt.org -- Average credit card debt statistics
-- meanstest.org -- Chapter 7 means test
-- automaticstay.org -- The automatic stay
+## Key Pages
+- Balance Transfer Traps Before Bankruptcy: https://creditcarddebtbankruptcy.org/balance-transfers.html
+- What to Do Before Filing Bankruptcy on Credit Card Debt: https://creditcarddebtbankruptcy.org/before-filing.html
+- Chapter 13 and Credit Card Debt -- Repayment Plans: https://creditcarddebtbankruptcy.org/chapter-13.html
+- Chapter 7 and Credit Card Debt -- How Discharge Works: https://creditcarddebtbankruptcy.org/chapter-7.html
+- Rebuilding Credit After Bankruptcy Discharge: https://creditcarddebtbankruptcy.org/credit-after.html
+- FAQ -- Credit Card Debt and Bankruptcy: https://creditcarddebtbankruptcy.org/faq.html
+- Creditcarddebt Bankruptcy -- Chapter 7 & 13 Filing Guide: https://creditcarddebtbankruptcy.org/
+- Credit Card Lawsuits and How Bankruptcy Stops Them: https://creditcarddebtbankruptcy.org/lawsuits.html
+- Medical Debt Bankruptcy [2026] -- Can You Discharge Medical Bills?: https://creditcarddebtbankruptcy.org/medical-debt.html
+- PPP Loan and Bankruptcy -- Can You Discharge PPP Debt?: https://creditcarddebtbankruptcy.org/ppp-loan-bankruptcy.html
+- Back Rent in Bankruptcy -- Can You Discharge Rent Debt?: https://creditcarddebtbankruptcy.org/rent-owed-bankruptcy.html
+- Secured vs Unsecured Credit Card Debt in Bankruptcy: https://creditcarddebtbankruptcy.org/secured-vs-unsecured.html
+- Timeshare and Bankruptcy -- How to Get Out of a Timeshare: https://creditcarddebtbankruptcy.org/timeshare-bankruptcy.html
+- Utility Bills in Bankruptcy -- Deposits, Shutoffs, and Discharge: https://creditcarddebtbankruptcy.org/utility-bills-bankruptcy.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
