@@ -27,7 +27,7 @@ Why Balance Transfers Before Bankruptcy Are Risky
 
 A balance transfer moves debt from one credit card to another, usually to take advantage of a lower interest rate. In normal circumstances, this is a reasonable financial strategy. Before bankruptcy, it is a trap.
 
-When you transfer a balance to a new card and then file bankruptcy, the new card issuer can argue that you obtained credit with no intent to repay -- which is fraud under Section 523(a)(2)(A). The transferred balance may be declared nondischargeable.
+When you transfer a balance to a new card and then file bankruptcy, the new card issuer can argue that you obtained credit with no intent to repay - which is fraud under Section 523(a)(2)(A). The transferred balance may be declared nondischargeable.
 
 The problem: You shifted debt from a card you were already planning to discharge to a new card you never intended to pay. Courts view this as obtaining credit through a false representation of intent to repay.
 
@@ -49,7 +49,7 @@ If you already transferred, wait at least 90 days (preferably longer) before fil
 
 Make payments on the transferred balance to demonstrate good faith
 
-Keep the old account open -- closing it immediately after transferring looks intentional
+Keep the old account open - closing it immediately after transferring looks intentional
 
 Best practice: If you are even thinking about bankruptcy, do not move money around between credit cards. Leave everything where it is and consult with an attorney before making any financial moves.
 
@@ -181,7 +181,7 @@ LawsuitsBalance TransfersSecured vs UnsecuredFAQ
 
 Before Filing Bankruptcy on Credit Card Debt
 
-What to do -- and what not to do -- in the weeks and months before you file.
+What to do - and what not to do - in the weeks and months before you file.
 
 Home › Before Filing
 
@@ -211,7 +211,7 @@ Date the account was opened
 
 Last 12 months of statements (for the means test and to check for preference payments)
 
-Pull a free credit report from annualcreditreport.com to make sure you are not forgetting any accounts. You must list every debt in your bankruptcy petition -- even debts you have not thought about in years.
+Pull a free credit report from annualcreditreport.com to make sure you are not forgetting any accounts. You must list every debt in your bankruptcy petition - even debts you have not thought about in years.
 
 Complete Credit Counseling
 
@@ -345,7 +345,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 13 and Credit Card Debt -- Repayment Plans
+## Chapter 13 and Credit Card Debt - Repayment Plans
 Source: https://creditcarddebtbankruptcy.org/chapter-13.html
 
 Skip to main content
@@ -371,7 +371,7 @@ Home › Chapter 13 and Credit Card Debt
 
 How Chapter 13 Handles Credit Card Debt
 
-In Chapter 13, you propose a repayment plan lasting 3 to 5 years. Your disposable income -- the amount left after paying secured debts (mortgage, car), priority debts (taxes, support), and living expenses -- goes to unsecured creditors, including credit card companies.
+In Chapter 13, you propose a repayment plan lasting 3 to 5 years. Your disposable income - the amount left after paying secured debts (mortgage, car), priority debts (taxes, support), and living expenses - goes to unsecured creditors, including credit card companies.
 
 The percentage paid to unsecured creditors depends entirely on your budget. If your income barely covers necessities, the plan may pay 0% to credit card companies. If you have more disposable income, the percentage increases.
 
@@ -393,7 +393,7 @@ What Happens at the End of the Plan
 
 After completing all plan payments over 3-5 years, you receive a Chapter 13 discharge. Any remaining unpaid credit card debt is discharged. You owe nothing more to those creditors.
 
-Example: You owe $50,000 in credit card debt. Your plan pays 5% to unsecured creditors over 5 years -- a total of $2,500. The remaining $47,500 is discharged. The creditors receive their pro rata share and have no further claim.
+Example: You owe $50,000 in credit card debt. Your plan pays 5% to unsecured creditors over 5 years - a total of $2,500. The remaining $47,500 is discharged. The creditors receive their pro rata share and have no further claim.
 
 Completion rates: Nationally, only about 33-40% of Chapter 13 cases result in a discharge. The rest are dismissed before completion, usually because the debtor cannot maintain plan payments. If your case is dismissed, credit card companies can resume collection.
 
@@ -407,7 +407,7 @@ Secured debts (mortgage arrears, car payments)
 
 Priority debts (taxes, domestic support)
 
-Unsecured debts (credit cards, medical bills, personal loans) -- whatever is left
+Unsecured debts (credit cards, medical bills, personal loans) - whatever is left
 
 Credit card companies are at the bottom of the priority ladder. They receive payment only after all higher-priority claims are satisfied.
 
@@ -511,7 +511,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Chapter 7 and Credit Card Debt -- How Discharge Works
+## Chapter 7 and Credit Card Debt - How Discharge Works
 Source: https://creditcarddebtbankruptcy.org/chapter-7.html
 
 Skip to main content
@@ -537,7 +537,7 @@ Home › Chapter 7 and Credit Card Debt
 
 How Chapter 7 Discharge Works for Credit Cards
 
-When you file Chapter 7 bankruptcy, all of your general unsecured debts -- including credit card balances -- are eligible for discharge. Discharge means the legal obligation to pay is permanently eliminated. The creditor cannot collect, call, sue, or report the debt as delinquent after the discharge is entered.
+When you file Chapter 7 bankruptcy, all of your general unsecured debts - including credit card balances - are eligible for discharge. Discharge means the legal obligation to pay is permanently eliminated. The creditor cannot collect, call, sue, or report the debt as delinquent after the discharge is entered.
 
 The discharge typically occurs about 60 days after the 341 meeting of creditors, which itself is scheduled about 30 days after filing. Total timeline from filing to discharge: approximately 3-4 months.
 
@@ -549,7 +549,7 @@ To file Chapter 7, you must either have income below your state's median income 
 
 If you fail the means test, the court presumes abuse under Section 707(b), and your case may be dismissed or converted to Chapter 13. For a detailed walkthrough, see meanstest.org.
 
-The good news: most people with primarily credit card debt and modest income qualify easily. Credit card debt itself is not a factor in the means test -- only your income and expenses matter.
+The good news: most people with primarily credit card debt and modest income qualify easily. Credit card debt itself is not a factor in the means test - only your income and expenses matter.
 
 What You Keep
 
@@ -585,19 +585,19 @@ If credit card debt is your primary problem, Chapter 7 solves it completely. The
 
 The Chapter 7 Timeline for Credit Card Debt
 
-Credit counseling -- complete within 180 days before filing
+Credit counseling - complete within 180 days before filing
 
-File petition -- all credit card debts listed on Schedules D/E/F
+File petition - all credit card debts listed on Schedules D/E/F
 
-Automatic stay -- all collection stops immediately (see automaticstay.org)
+Automatic stay - all collection stops immediately (see automaticstay.org)
 
-341 meeting -- ~30 days after filing, answer trustee questions
+341 meeting - ~30 days after filing, answer trustee questions
 
-Objection deadline -- creditors have 60 days from the 341 meeting to object
+Objection deadline - creditors have 60 days from the 341 meeting to object
 
-Discharge -- entered ~60 days after 341 meeting
+Discharge - entered ~60 days after 341 meeting
 
-Case closed -- shortly after discharge if no assets to administer
+Case closed - shortly after discharge if no assets to administer
 
 Check Your Eligibility
 
@@ -754,7 +754,7 @@ Payment history is 35% of your FICO score. Every on-time payment after bankruptc
 
 5. Keep Utilization Low
 
-Keep your credit utilization below 30% -- ideally below 10%. If your secured card has a $500 limit, keep the balance below $50.
+Keep your credit utilization below 30% - ideally below 10%. If your secured card has a $500 limit, keep the balance below $50.
 
 Typical Credit Score Timeline After Chapter 7
 
@@ -878,7 +878,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## FAQ -- Credit Card Debt and Bankruptcy
+## FAQ - Credit Card Debt and Bankruptcy
 Source: https://creditcarddebtbankruptcy.org/faq.html
 
 Skip to main content
@@ -889,7 +889,7 @@ creditcarddebtbankruptcy.org
 HomeChapter 7Chapter 13Before FilingCredit AfterLawsuitsBalance TransfersSecured vs Unsecured
 FAQ
 
-FAQ -- Credit Card Debt and Bankruptcy
+FAQ - Credit Card Debt and Bankruptcy
 
 Answers to the most common questions about filing bankruptcy on credit card debt.
 
@@ -939,11 +939,11 @@ Some credit card companies send IRS Form 1099-C (Cancellation of Debt) even afte
 
 How much credit card debt do I need to file bankruptcy?
 
-There is no minimum debt amount required to file bankruptcy. The decision depends on your ability to repay, not the dollar amount. However, bankruptcy involves costs -- typically $1,500-2,500 for Chapter 7 including attorney fees and the $338 filing fee -- so filing over a very small balance may not make financial sense. A general guideline: if you cannot realistically pay off your unsecured debt within 3-5 years given your income and expenses, bankruptcy may be worth considering. Many people file with $10,000-$50,000 in credit card debt, but there are no hard rules.
+There is no minimum debt amount required to file bankruptcy. The decision depends on your ability to repay, not the dollar amount. However, bankruptcy involves costs - typically $1,500-2,500 for Chapter 7 including attorney fees and the $338 filing fee - so filing over a very small balance may not make financial sense. A general guideline: if you cannot realistically pay off your unsecured debt within 3-5 years given your income and expenses, bankruptcy may be worth considering. Many people file with $10,000-$50,000 in credit card debt, but there are no hard rules.
 
 Can I use my credit cards after filing but before discharge?
 
-No. Once you file bankruptcy, all your credit card accounts are frozen and will be closed. Using a credit card after filing -- or incurring new debt without disclosing the pending bankruptcy -- can be considered fraud and may jeopardize your discharge under Section 523(a)(2). Do not apply for or use any credit until after your discharge is entered. After discharge, you can begin rebuilding with a secured credit card.
+No. Once you file bankruptcy, all your credit card accounts are frozen and will be closed. Using a credit card after filing - or incurring new debt without disclosing the pending bankruptcy - can be considered fraud and may jeopardize your discharge under Section 523(a)(2). Do not apply for or use any credit until after your discharge is entered. After discharge, you can begin rebuilding with a secured credit card.
 
 Related Guides
 
@@ -1045,7 +1045,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Creditcarddebt Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+## Creditcarddebt Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
 Source: https://creditcarddebtbankruptcy.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -1065,11 +1065,11 @@ Balance Transfers
 Secured vs Unsecured
 FAQ
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
-Creditcarddebt Bankruptcy -- Your Complete Filing Guide for 2026
+Creditcarddebt Bankruptcy - Your Complete Filing Guide for 2026
 
-The short answer is yes. Credit card debt is general unsecured debt -- the easiest type to eliminate in bankruptcy.
+The short answer is yes. Credit card debt is general unsecured debt - the easiest type to eliminate in bankruptcy.
 
 Chapter 7 wipes it out entirely.
 
@@ -1079,9 +1079,9 @@ Network › Credit Card Debt Bankruptcy
 
 Credit Card Debt Is Dischargeable
 
-Credit card debt is classified as general unsecured debt under the Bankruptcy Code. It is not secured by collateral (unlike a mortgage or car loan) and is not given priority status (unlike taxes or child support). This means credit card debt sits at the bottom of the priority ladder -- and is the first type of debt that gets eliminated in bankruptcy.
+Credit card debt is classified as general unsecured debt under the Bankruptcy Code. It is not secured by collateral (unlike a mortgage or car loan) and is not given priority status (unlike taxes or child support). This means credit card debt sits at the bottom of the priority ladder - and is the first type of debt that gets eliminated in bankruptcy.
 
-In a Chapter 7 case, credit card debt is discharged entirely. You owe nothing after the case concludes, typically 3-4 months after filing. In a Chapter 13 case, credit card debt is lumped in with other unsecured claims and repaid at whatever percentage the plan provides -- often 0% to 10%.
+In a Chapter 7 case, credit card debt is discharged entirely. You owe nothing after the case concludes, typically 3-4 months after filing. In a Chapter 13 case, credit card debt is lumped in with other unsecured claims and repaid at whatever percentage the plan provides - often 0% to 10%.
 
 Key point: You do not need a special reason to file bankruptcy on credit card debt. There is no minimum amount required. Whether you owe $5,000 or $500,000, the process is the same.
 
@@ -1111,7 +1111,7 @@ The moment you file bankruptcy, several things happen to your credit card accoun
 
 All cards are canceled. Every credit card issuer will close your account, even cards with zero balances that you did not include in the bankruptcy.
 
-Collection stops immediately. The automatic stay protection in bankruptcy prohibits all collection activity, including calls, letters, lawsuits, and garnishments.
+Collection stops immediately. The automatic stay protection in bankruptcy prohibits all collection activity, including calls, letters, lawsuits, and garnishments. If you have already been sued by a credit card company, the stay halts that lawsuit immediately. Even zombie debt collectors trying to collect on old accounts must stop.
 
 Interest stops accruing on the balances as of the filing date (in Chapter 7). In Chapter 13, unsecured creditors do not receive interest through the plan.
 
@@ -1186,13 +1186,13 @@ Means Test Guide
 
 Related Resources
 
-Credit Card Forgiveness -- Options for getting credit card debt forgiven outside bankruptcy
+Credit Card Forgiveness - Options for getting credit card debt forgiven outside bankruptcy
 
-Debt Settlement vs Bankruptcy -- Complete comparison of settlement and bankruptcy
+Debt Settlement vs Bankruptcy - Complete comparison of settlement and bankruptcy
 
-Section 523(a) nondischargeable debts -- Which debts survive bankruptcy under Section 523(a)
+Section 523(a) nondischargeable debts - Which debts survive bankruptcy under Section 523(a)
 
-Average Credit Card Debt -- National statistics on credit card debt by state and age
+Average Credit Card Debt - National statistics on credit card debt by state and age
 
 Related Guides
 
@@ -1273,7 +1273,7 @@ medicalbillbankruptcy.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1409,6 +1409,7 @@ meanstest.org
 averagecreditcarddebt.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
@@ -1416,6 +1417,8 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 Privacy | Terms | Open Bankruptcy Project
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1454,15 +1457,15 @@ How Bankruptcy Stops the Lawsuit
 
 The moment you file bankruptcy, the automatic stay under Section 362 takes effect. This is a federal court order that immediately halts:
 
-All pending lawsuits -- the state court case is stayed
+All pending lawsuits - the state court case is stayed
 
-Wage garnishments -- your employer must stop withholding immediately
+Wage garnishments - your employer must stop withholding immediately
 
-Bank levies -- frozen funds may be released
+Bank levies - frozen funds may be released
 
-Collection calls and letters -- all contact must stop
+Collection calls and letters - all contact must stop
 
-Judgment enforcement -- even if they already have a judgment
+Judgment enforcement - even if they already have a judgment
 
 Key point: It does not matter if the lawsuit is in progress, if a judgment has been entered, or if garnishment has already started. Bankruptcy stops it all. The creditor must file a motion for relief from stay if they want to continue, and those motions are almost never granted for unsecured credit card debt.
 
@@ -1586,7 +1589,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Medical Debt Bankruptcy [2026] -- Can You Discharge Medical Bills?
+## Medical Debt Bankruptcy [2026] - Can You Discharge Medical Bills?
 Source: https://creditcarddebtbankruptcy.org/medical-debt.html
 
 creditcarddebtbankruptcy.org
@@ -1602,6 +1605,8 @@ Medical Debt Bankruptcy [2026]
 
 Medical debt is the leading cause of personal bankruptcy filings in the United States. The good news: it is fully dischargeable. Here is everything you need to know.
 
+Home›Medical Debt Bankruptcy
+
 100%
 Dischargeable in Chapter 7
 
@@ -1615,15 +1620,15 @@ Medical Debt Is Fully Dischargeable
 
 Medical debt is classified as general unsecured debt under the Bankruptcy Code. It is not secured by any collateral (unlike a mortgage or car loan), and it is not listed among the categories of nondischargeable debt in 11 U.S.C. § 523(a).
 
-This means medical debt receives the same treatment as credit card debt, personal loans, and other general unsecured obligations. In Chapter 7, it is eliminated entirely. In Chapter 13, it is included in the repayment plan and you pay whatever percentage your disposable income allows -- often pennies on the dollar.
+This means medical debt receives the same treatment as credit card debt, personal loans, and other general unsecured obligations. In Chapter 7, it is eliminated entirely. In Chapter 13, it is included in the repayment plan and you pay whatever percentage your disposable income allows - often pennies on the dollar.
 
-11 U.S.C. § 523(a) -- Nondischargeable Debts: This section lists 19 specific categories of debt that survive bankruptcy, including certain taxes, student loans, domestic support obligations, debts obtained through fraud, and drunk driving judgments. Medical debt is not on this list.
+11 U.S.C. § 523(a) - Nondischargeable Debts: This section lists 19 specific categories of debt that survive bankruptcy, including certain taxes, student loans, domestic support obligations, debts obtained through fraud, and drunk driving judgments. Medical debt is not on this list.
 
 Medical Debt in Chapter 7
 
-In Chapter 7 bankruptcy, eligible unsecured debts are discharged entirely -- you owe nothing after the case concludes. Medical debt qualifies for full discharge regardless of the amount.
+In Chapter 7 bankruptcy, eligible unsecured debts are discharged entirely - you owe nothing after the case concludes. Medical debt qualifies for full discharge regardless of the amount.
 
-To file Chapter 7, you must pass the means test under 11 U.S.C. § 707(b). The means test compares your income to the median income for your state and household size. If your income is below the median, you qualify automatically. If above, you may still qualify after deducting allowed expenses -- including ongoing medical expenses.
+To file Chapter 7, you must pass the means test under 11 U.S.C. § 707(b). The means test compares your income to the median income for your state and household size. If your income is below the median, you qualify automatically. If above, you may still qualify after deducting allowed expenses - including ongoing medical expenses.
 
 What Happens to the Debt
 
@@ -1641,7 +1646,7 @@ Medical Debt in Chapter 13
 
 In Chapter 13, you repay creditors through a court-supervised plan lasting 3 to 5 years. Medical debt is included as general unsecured debt and is paid after priority claims (like taxes) and secured claims (like your mortgage).
 
-The amount unsecured creditors receive depends on your disposable income under 11 U.S.C. § 1325(b). In many cases, general unsecured creditors (including medical providers) receive only a small percentage of what they are owed -- sometimes as little as 0% to 10%. The remaining balance is discharged when you complete the plan.
+The amount unsecured creditors receive depends on your disposable income under 11 U.S.C. § 1325(b). In many cases, general unsecured creditors (including medical providers) receive only a small percentage of what they are owed - sometimes as little as 0% to 10%. The remaining balance is discharged when you complete the plan.
 
 Why Choose Chapter 13 for Medical Debt?
 
@@ -1669,11 +1674,11 @@ Medical debt in collections does appear on credit reports. However, the three ma
 
 Misconception: "I should try to negotiate first and only file as a last resort"
 
-Negotiation can work for some people, but it has significant limitations. Negotiated settlements often require lump-sum payments you may not have. Payment plans keep the debt active for years. And negotiation does nothing about the rest of your debt. If medical bills are part of a larger financial crisis -- combined with credit cards, personal loans, or wage garnishment -- bankruptcy may resolve everything at once.
+Negotiation can work for some people, but it has significant limitations. Negotiated settlements often require lump-sum payments you may not have. Payment plans keep the debt active for years. And negotiation does nothing about the rest of your debt. If medical bills are part of a larger financial crisis - combined with credit cards, personal loans, or wage garnishment - bankruptcy may resolve everything at once.
 
 Medical Debt Already in Collections
 
-Medical debt that has been sold to a collection agency or debt buyer is still fully dischargeable. The sale of the debt does not change its character -- it remains general unsecured debt.
+Medical debt that has been sold to a collection agency or debt buyer is still fully dischargeable. The sale of the debt does not change its character - it remains general unsecured debt.
 
 When listing debts in your bankruptcy schedules:
 
@@ -1683,7 +1688,7 @@ Also list the original provider if you have that information
 
 If you are unsure who currently holds the debt, list both the original provider and the last collector who contacted you
 
-Include any debt that has resulted in a lawsuit or judgment -- a judgment on medical debt is still dischargeable
+Include any debt that has resulted in a lawsuit or judgment - a judgment on medical debt is still dischargeable
 
 Do not ignore medical debt lawsuits. If a hospital or collection agency sues you and obtains a judgment, they can garnish wages and levy bank accounts. A judgment on medical debt is still dischargeable in bankruptcy, but if you let garnishment start, you lose money that could have been protected by filing sooner.
 
@@ -1691,17 +1696,17 @@ Medical Debt vs. Other Types of Debt
 
 Understanding where medical debt falls in the bankruptcy hierarchy:
 
-Medical debt -- general unsecured, fully dischargeable
+Medical debt - general unsecured, fully dischargeable
 
-Credit card debt -- general unsecured, fully dischargeable (same treatment)
+Credit card debt - general unsecured, fully dischargeable (same treatment)
 
-Student loans -- generally nondischargeable except under Section 523(a)(8) "undue hardship" standard
+Student loans - generally nondischargeable except under Section 523(a)(8) "undue hardship" standard
 
-Tax debt -- may be dischargeable if the taxes meet specific age and filing requirements
+Tax debt - may be dischargeable if the taxes meet specific age and filing requirements
 
-Child support/alimony -- nondischargeable under § 523(a)(5)
+Child support/alimony - nondischargeable under § 523(a)(5)
 
-Mortgage debt -- secured, treated differently (you keep paying to keep the house)
+Mortgage debt - secured, treated differently (you keep paying to keep the house)
 
 The critical takeaway: medical debt is in the most favorable category for bankruptcy. It is not secured by collateral, and it is not protected from discharge. It is eliminated entirely in Chapter 7 and partially in Chapter 13.
 
@@ -1731,6 +1736,8 @@ Sued by a Credit Card Company
 
 Related Topics
 
+1328(f) Discharge Screener
+
 Nondischargeable Debts (523a)
 The Means Test
 Chapter 7 vs Chapter 13
@@ -1738,11 +1745,11 @@ Debt Validation Letter
 
 Related Resources
 
-How to File Bankruptcy -- Step-by-step filing guide
+How to File Bankruptcy - Step-by-step filing guide
 
-Exemptions by State -- What property you can keep
+Exemptions by State - What property you can keep
 
-Rebuild Credit After Bankruptcy -- Getting back on track
+Rebuild Credit After Bankruptcy - Getting back on track
 
 Federal Rules Committee
 
@@ -1846,7 +1853,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## PPP Loan and Bankruptcy -- Can You Discharge PPP Debt?
+## PPP Loan and Bankruptcy - Can You Discharge PPP Debt?
 Source: https://creditcarddebtbankruptcy.org/ppp-loan-bankruptcy.html
 
 creditcarddebtbankruptcy.org
@@ -1859,11 +1866,11 @@ Student Loans
 Tax Debt
 FAQ
 
-PPP Loan and Bankruptcy -- Can You Discharge PPP Debt?
+PPP Loan and Bankruptcy - Can You Discharge PPP Debt?
 
 What happens to PPP loans in bankruptcy? EIDL vs PPP treatment, fraud concerns, SBA priority claims, and whether pandemic business loans are dischargeable.
 
-Home › PPP Loan and Bankruptcy -- Can You Discharge PPP Debt?
+Home › PPP Loan and Bankruptcy - Can You Discharge PPP Debt?
 
 PPP Loans and Bankruptcy
 
@@ -1928,7 +1935,7 @@ Student Loan Forgiveness Programs -- studentloanforgive.org
 
 ---
 
-## Back Rent in Bankruptcy -- Can You Discharge Rent Debt?
+## Back Rent in Bankruptcy - Can You Discharge Rent Debt?
 Source: https://creditcarddebtbankruptcy.org/rent-owed-bankruptcy.html
 
 creditcarddebtbankruptcy.org
@@ -1941,11 +1948,11 @@ Student Loans
 Tax Debt
 FAQ
 
-Back Rent in Bankruptcy -- Can You Discharge Rent Debt?
+Back Rent in Bankruptcy - Can You Discharge Rent Debt?
 
 Can past due rent be discharged in bankruptcy? Treatment of rental arrears, eviction protection limits, lease assumption/rejection, and landlord claims.
 
-Home › Back Rent in Bankruptcy -- Can You Discharge Rent Debt?
+Home › Back Rent in Bankruptcy - Can You Discharge Rent Debt?
 
 Back Rent in Bankruptcy
 
@@ -2037,17 +2044,17 @@ What happens in Ch. 7Debt discharged entirelyDeposit applied to balance; excess 
 
 Creditor can take property?No (unless they have a judgment lien)Only the deposit
 
-Most common typeYes -- vast majority of credit cardsNo -- used mainly for credit building
+Most common typeYes - vast majority of credit cardsNo - used mainly for credit building
 
 Unsecured Credit Cards in Bankruptcy
 
-Standard credit cards -- Visa, Mastercard, Discover, American Express, store cards -- are all unsecured. There is no collateral backing the debt. In Chapter 7, these balances are discharged entirely. In Chapter 13, they are paid at whatever percentage the plan provides (often 0-10%).
+Standard credit cards - Visa, Mastercard, Discover, American Express, store cards - are all unsecured. There is no collateral backing the debt. In Chapter 7, these balances are discharged entirely. In Chapter 13, they are paid at whatever percentage the plan provides (often 0-10%).
 
 This is the simplest category of debt in bankruptcy. No negotiations, no valuations, no motions. The debt is listed on Schedule F as general unsecured, and it disappears at discharge.
 
 Secured Credit Cards in Bankruptcy
 
-A secured credit card requires a cash deposit that serves as collateral. If you have a $500 deposit and owe $400, the card issuer keeps the $400 and returns $100. If you owe $600, the issuer keeps the $500 deposit, and the remaining $100 is treated as unsecured debt -- dischargeable in Chapter 7.
+A secured credit card requires a cash deposit that serves as collateral. If you have a $500 deposit and owe $400, the card issuer keeps the $400 and returns $100. If you owe $600, the issuer keeps the $500 deposit, and the remaining $100 is treated as unsecured debt - dischargeable in Chapter 7.
 
 Section 506(a): A secured claim is allowed only to the extent of the value of the collateral. For secured credit cards, the collateral is the cash deposit. Any balance exceeding the deposit is an unsecured claim.
 
@@ -2157,7 +2164,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Timeshare and Bankruptcy -- How to Get Out of a Timeshare
+## Timeshare and Bankruptcy - How to Get Out of a Timeshare
 Source: https://creditcarddebtbankruptcy.org/timeshare-bankruptcy.html
 
 creditcarddebtbankruptcy.org
@@ -2170,11 +2177,11 @@ Student Loans
 Tax Debt
 FAQ
 
-Timeshare and Bankruptcy -- How to Get Out of a Timeshare
+Timeshare and Bankruptcy - How to Get Out of a Timeshare
 
 Can you discharge a timeshare in bankruptcy? Executory contract rejection, HOA fees, personal liability, and practical strategies for timeshare debt relief.
 
-Home › Timeshare and Bankruptcy -- How to Get Out of a Timeshare
+Home › Timeshare and Bankruptcy - How to Get Out of a Timeshare
 
 Getting Out of a Timeshare Through Bankruptcy
 
@@ -2239,7 +2246,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## Utility Bills in Bankruptcy -- Deposits, Shutoffs, and Discharge
+## Utility Bills in Bankruptcy - Deposits, Shutoffs, and Discharge
 Source: https://creditcarddebtbankruptcy.org/utility-bills-bankruptcy.html
 
 creditcarddebtbankruptcy.org
@@ -2252,11 +2259,11 @@ Student Loans
 Tax Debt
 FAQ
 
-Utility Bills in Bankruptcy -- Deposits, Shutoffs, and Discharge
+Utility Bills in Bankruptcy - Deposits, Shutoffs, and Discharge
 
 What happens to utility bills in bankruptcy? Protection from shutoffs, deposit requirements, pre-petition vs post-petition balances, and 11 U.S.C. Section 366.
 
-Home › Utility Bills in Bankruptcy -- Deposits, Shutoffs, and Discharge
+Home › Utility Bills in Bankruptcy - Deposits, Shutoffs, and Discharge
 
 Utility Bills in Bankruptcy
 
@@ -2318,3 +2325,75 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+---
+
+## Privacy Policy - creditcarddebtbankruptcy.org
+Source: https://creditcarddebtbankruptcy.org/privacy.html
+
+creditcarddebtbankruptcy.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
