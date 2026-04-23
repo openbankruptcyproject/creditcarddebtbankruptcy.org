@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://creditcarddebtbankruptcy.org/sitemap.xml
+
+Sitemap: https://creditcarddebtbankruptcy.org/sitemapindex.xml
