@@ -39,7 +39,7 @@ Section 523(a)(2)(C) creates two presumptions that can apply to balance transfer
 
 Luxury goods over $800 charged to a single creditor within 90 days of filing are presumed nondischargeable
 
-Cash advances over $1,100 from a single creditor within 70 days of filing are presumed nondischargeable
+Cash advances over $1,250 from a single creditor within 70 days of filing are presumed nondischargeable
 
 A balance transfer may be treated as a cash advance or as an extension of credit subject to fraud analysis. Either way, the timing creates problems.
 
@@ -195,7 +195,7 @@ Charges made with no intent to repay can be challenged as fraud under Section 52
 
 Luxury purchases over $800 within 90 days are presumed nondischargeable
 
-Cash advances over $1,100 within 70 days are presumed nondischargeable
+Cash advances over $1,250 within 70 days are presumed nondischargeable
 
 The rule: If you know you are going to file, stop using credit immediately. Use cash or debit only. The closer charges are to your filing date, the more scrutiny they receive.
 
@@ -1127,7 +1127,7 @@ Most credit card debt is discharged without issue. But there are narrow exceptio
 
 Luxury goods over $800 charged to a single creditor within 90 days of filing are presumed debts that cannot be discharged under Section 523(a) nondischargeable debts(a)(2)(C)(i). The creditor must still file an adversary proceeding to enforce this.
 
-Cash advances over $1,100 from a single creditor within 70 days of filing are presumed nondischargeable under Section 523(a)(2)(C)(ii).
+Cash advances over $1,250 from a single creditor within 70 days of filing are presumed nondischargeable under Section 523(a)(2)(C)(ii).
 
 Fraud. If you obtained the credit card or made charges through material misrepresentation (such as lying on the application about income), the debt may be nondischargeable under Section 523(a)(2)(A). The creditor must prove actual fraud.
 
@@ -1177,7 +1177,7 @@ There is no minimum amount required. The decision depends on your total debt-to-
 
 Can I use my credit card before filing bankruptcy?
 
-Using credit cards shortly before filing can create serious problems. Charges over $800 to a single creditor for luxury goods within 90 days of filing are presumed nondischargeable under 11 U.S.C. Section 523(a)(2)(C). Cash advances over $1,100 within 70 days carry the same presumption.
+Using credit cards shortly before filing can create serious problems. Charges over $900 to a single creditor for luxury goods within 90 days of filing are presumed nondischargeable under 11 U.S.C. Section 523(a)(2)(C). Cash advances over $1,250 within 70 days carry the same presumption.
 
 Check Your Discharge Eligibility
 
