@@ -1,27 +1,80 @@
-# Creditcarddebt Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Bankruptcy for Credit Cards [2026]
+> Last updated: 2026-09-25
 
-> Free Creditcarddebt bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what t...
+> Bankruptcy for credit cards: complete 2026 filing guide comparing Chapter 7 vs Chapter 13, local exemptions, filing costs, means test
 
 ## About
 creditcarddebtbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Balance Transfer Traps Before Bankruptcy: https://creditcarddebtbankruptcy.org/balance-transfers.html
+- Balance Transfer Traps Before Bankruptcy [2026]: 11 USC 523(a)(2) Presumption and 90-Day Window: https://creditcarddebtbankruptcy.org/balance-transfers.html
 - What to Do Before Filing Bankruptcy on Credit Card Debt: https://creditcarddebtbankruptcy.org/before-filing.html
-- Chapter 13 and Credit Card Debt - Repayment Plans: https://creditcarddebtbankruptcy.org/chapter-13.html
-- Chapter 7 and Credit Card Debt - How Discharge Works: https://creditcarddebtbankruptcy.org/chapter-7.html
-- Rebuilding Credit After Bankruptcy Discharge: https://creditcarddebtbankruptcy.org/credit-after.html
-- FAQ - Credit Card Debt and Bankruptcy: https://creditcarddebtbankruptcy.org/faq.html
-- Creditcarddebt Bankruptcy - Chapter 7 & 13 Filing Guide: https://creditcarddebtbankruptcy.org/
+- Chapter 13 and Credit Card Debt [2026]: Cents-on-the-Dollar Repayment Through the Plan: https://creditcarddebtbankruptcy.org/chapter-13.html
+- Chapter 7 and Credit Card Debt [2026]: 11 USC 727 Discharge Eliminates Unsecured Credit Card Balances: https://creditcarddebtbankruptcy.org/chapter-7.html
+- Rebuilding Credit After Bankruptcy [2026]: Secured Cards, 7-10 Year Reporting Window, and FICO Recovery: https://creditcarddebtbankruptcy.org/credit-after.html
+- Credit Card Debt Bankruptcy FAQ [2026]: Means Test, 523(a)(2) Presumption, and Reaffirmation Rules: https://creditcarddebtbankruptcy.org/faq.html
+- Bankruptcy for Credit Cards: https://creditcarddebtbankruptcy.org/
 - Credit Card Lawsuits and How Bankruptcy Stops Them: https://creditcarddebtbankruptcy.org/lawsuits.html
 - Medical Debt Bankruptcy [2026] - Can You Discharge Medical Bills?: https://creditcarddebtbankruptcy.org/medical-debt.html
-- PPP Loan and Bankruptcy - Can You Discharge PPP Debt?: https://creditcarddebtbankruptcy.org/ppp-loan-bankruptcy.html
-- Back Rent in Bankruptcy - Can You Discharge Rent Debt?: https://creditcarddebtbankruptcy.org/rent-owed-bankruptcy.html
-- Secured vs Unsecured Credit Card Debt in Bankruptcy: https://creditcarddebtbankruptcy.org/secured-vs-unsecured.html
-- Timeshare and Bankruptcy - How to Get Out of a Timeshare: https://creditcarddebtbankruptcy.org/timeshare-bankruptcy.html
-- Utility Bills in Bankruptcy - Deposits, Shutoffs, and Discharge: https://creditcarddebtbankruptcy.org/utility-bills-bankruptcy.html
+- PPP Loan and Bankruptcy [2026]: SBA Forgiveness, Personal Guarantee, and Chapter 7 Discharge: https://creditcarddebtbankruptcy.org/ppp-loan-bankruptcy.html
+- Back Rent in Bankruptcy [2026]: 11 USC 365 Lease Cure and 362(b)(22) Stay Limits: https://creditcarddebtbankruptcy.org/rent-owed-bankruptcy.html
+- Secured vs Unsecured Credit Card Debt in Bankruptcy [2026]: Reaffirmation and Discharge Differences: https://creditcarddebtbankruptcy.org/secured-vs-unsecured.html
+- Timeshare and Bankruptcy [2026]: 11 USC 365 Rejection vs Surrender and 523(a) Discharge: https://creditcarddebtbankruptcy.org/timeshare-bankruptcy.html
+- Utility Bills in Bankruptcy [2026]: 11 USC 366 Adequate Assurance and Discharge of Pre-Petition Charges: https://creditcarddebtbankruptcy.org/utility-bills-bankruptcy.html
 - Privacy Policy: https://creditcarddebtbankruptcy.org/privacy.html
+- About creditcarddebtbankruptcy.org: https://creditcarddebtbankruptcy.org/about.html
+- Credit Card Debt and Bankruptcy in Alabama [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/alabama.html
+- Credit Card Debt and Bankruptcy in Alaska [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/alaska.html
+- Credit Card Debt and Bankruptcy in Arizona [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/arizona.html
+- Credit Card Debt and Bankruptcy in Arkansas [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/arkansas.html
+- Credit Card Debt and Bankruptcy in California [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/california.html
+- Credit Card Debt and Bankruptcy in Colorado [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/colorado.html
+- Credit Card Debt and Bankruptcy in Connecticut [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/connecticut.html
+- Credit Card Debt and Bankruptcy in Delaware [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/delaware.html
+- Credit Card Debt and Bankruptcy in District of Columbia [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/district-of-columbia.html
+- Credit Card Debt and Bankruptcy in Florida [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/florida.html
+- Credit Card Debt and Bankruptcy in Georgia [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/georgia.html
+- Credit Card Debt and Bankruptcy in Hawaii [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/hawaii.html
+- Credit Card Debt and Bankruptcy in Idaho [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/idaho.html
+- Credit Card Debt and Bankruptcy in Illinois [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/illinois.html
+- Credit Card Debt and Bankruptcy by State: https://creditcarddebtbankruptcy.org/states/
+- Credit Card Debt and Bankruptcy in Indiana [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/indiana.html
+- Credit Card Debt and Bankruptcy in Iowa [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/iowa.html
+- Credit Card Debt and Bankruptcy in Kansas [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/kansas.html
+- Credit Card Debt and Bankruptcy in Kentucky [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/kentucky.html
+- Credit Card Debt and Bankruptcy in Louisiana [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/louisiana.html
+- Credit Card Debt and Bankruptcy in Maine [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/maine.html
+- Credit Card Debt and Bankruptcy in Maryland [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/maryland.html
+- Credit Card Debt and Bankruptcy in Massachusetts [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/massachusetts.html
+- Credit Card Debt and Bankruptcy in Michigan [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/michigan.html
+- Credit Card Debt and Bankruptcy in Minnesota [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/minnesota.html
+- Credit Card Debt and Bankruptcy in Mississippi [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/mississippi.html
+- Credit Card Debt and Bankruptcy in Missouri [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/missouri.html
+- Credit Card Debt and Bankruptcy in Montana [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/montana.html
+- Credit Card Debt and Bankruptcy in Nebraska [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/nebraska.html
+- Credit Card Debt and Bankruptcy in Nevada [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/nevada.html
+- Credit Card Debt and Bankruptcy in New Hampshire [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/new-hampshire.html
+- Credit Card Debt and Bankruptcy in New Jersey [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/new-jersey.html
+- Credit Card Debt and Bankruptcy in New Mexico [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/new-mexico.html
+- Credit Card Debt and Bankruptcy in New York [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/new-york.html
+- Credit Card Debt and Bankruptcy in North Carolina [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/north-carolina.html
+- Credit Card Debt and Bankruptcy in North Dakota [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/north-dakota.html
+- Credit Card Debt and Bankruptcy in Ohio [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/ohio.html
+- Credit Card Debt and Bankruptcy in Oklahoma [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/oklahoma.html
+- Credit Card Debt and Bankruptcy in Oregon [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/oregon.html
+- Credit Card Debt and Bankruptcy in Pennsylvania [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/pennsylvania.html
+- Credit Card Debt and Bankruptcy in Rhode Island [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/rhode-island.html
+- Credit Card Debt and Bankruptcy in South Carolina [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/south-carolina.html
+- Credit Card Debt and Bankruptcy in South Dakota [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/south-dakota.html
+- Credit Card Debt and Bankruptcy in Tennessee [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/tennessee.html
+- Credit Card Debt and Bankruptcy in Texas [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/texas.html
+- Credit Card Debt and Bankruptcy in Utah [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/utah.html
+- Credit Card Debt and Bankruptcy in Vermont [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/vermont.html
+- Credit Card Debt and Bankruptcy in Virginia [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/virginia.html
+- Credit Card Debt and Bankruptcy in Washington [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/washington.html
+- Credit Card Debt and Bankruptcy in West Virginia [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/west-virginia.html
+- Credit Card Debt and Bankruptcy in Wisconsin [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/wisconsin.html
+- Credit Card Debt and Bankruptcy in Wyoming [2026]: SOL, Judgments, and Discharge: https://creditcarddebtbankruptcy.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
